@@ -1,0 +1,37 @@
+{
+    "questions": [
+     
+        {
+            "question": "In which year was the Pakistan Resolution passed?",
+            "options": ["1937", "1940", "1945", "1947"],
+            "correctOption": 1,
+            "points": 10
+          },
+      {
+        "question": "In which year did Pakistan become a republic and adopt its first constitution?",
+        "options": ["1956", "1962", "1971", "1973"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "During which war did Pakistan gain control of the Chagai Hills, resulting in the establishment of the Chagai District?",
+        "options": ["World War I", "Indo-Pakistani War of 1965", "Afghan-Soviet War", "Indo-Pakistani War of 1971"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "What was the operation name for Pakistan's response to India's nuclear tests in 1998?",
+        "options": ["Operation Desert Storm", "Operation Zarb-e-Azb", "Operation Rah-e-Rast", "Operation Chagai"],
+        "correctOption": 3,
+        "points": 10
+      },
+    
+      {
+        "question": "Which Pakistani cricketer led the national team to victory in the 1992 Cricket World Cup?",
+        "options": ["Inzamam-ul-Haq", "Shoaib Akhtar", "Wasim Akram", "Saeed Anwar"],
+        "correctOption": 2,
+        "points": 10
+      }
+    ]
+  }
+  
